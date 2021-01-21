@@ -50,7 +50,6 @@ namespace ClassMethodDemo
                 Console.WriteLine("\n");
                 Console.WriteLine("***************************************************");
             }
-
         }
     }
 }
