@@ -16,13 +16,12 @@ namespace ClassMethodDemo
         }
         public void printCustomer(Customer customer) 
         {
-         
             Console.WriteLine("ID: "+customer.ID);
             Console.WriteLine("Full Name: "+customer.firstName+" "+customer.lastName);
             Console.WriteLine("Phone Number: "+customer.phoneNumber);
             Console.WriteLine("Address: "+customer.Address);
-          
+            Console.WriteLine("\n");
+            customerAdd(customer);
         }
-
     }
 }

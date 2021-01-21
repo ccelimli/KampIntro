@@ -48,8 +48,7 @@ namespace ClassMethodDemo
                 CustomerManager customerManager = new CustomerManager();
                 customerManager.printCustomer(customers);
                 Console.WriteLine("\n");
-                customerManager.customerAdd(customers);
-                Console.WriteLine("\n***************************************************\n");
+                Console.WriteLine("***************************************************");
             }
 
         }
