@@ -37,11 +37,6 @@ namespace Metotlar
                 Console.WriteLine("***************************************");            
             }
             Console.WriteLine("---------------------Metodlar----------------");
-            //instance-ornek
-            //encapsulation
-            
-            
-
         }
     }
 }
